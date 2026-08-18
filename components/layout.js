@@ -4,7 +4,7 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
  
-const name = 'Joefer Miguel Tulabut';
+const name = 'Joefer Miguel N. Tulabut';
 export const siteTitle = 'Next.js Sample Website';
  
 export default function Layout({ children, home }) {
@@ -24,14 +24,14 @@ export default function Layout({ children, home }) {
             'https://nextjs.org/static/nextjs-logo.svg',
           )}`}
         />
-       
+        
       </Head>
       <header className={styles.header}>
         {home ? (
           <>
             <Image
               priority
-              src="/images/profile.jpeg"
+              src="/images/profile.jpg"
               className={utilStyles.borderCircle}
               height={144}
               width={144}
@@ -44,7 +44,7 @@ export default function Layout({ children, home }) {
             <Link href="/">
               <Image
                 priority
-                src="/images/profile.jpeg"
+                src="/images/profile.jpg"
                 className={utilStyles.borderCircle}
                 height={108}
                 width={108}

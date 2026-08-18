@@ -10,10 +10,10 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
   <p style={{ textAlign: 'justify' }}>
-    Yo, I’m Joefer Miguel Tulabut. I’m all about good vibes, new experiences,
+    Hi, I’m Joefer Miguel N. Tulabut. I’m all about good vibes
     and chasing bigger goals. I love travelling, gaming, and hitting up random
     stores—whether I’m exploring a new place, grinding through a game, or
-    hunting for a rare thrift find, I’m always looking for something different. My favorite genre or music are hiphop and rnb. I can eat chicken wings all day making it my go to food
+    hunting for a rare thrift find, I’m always looking for something different. My favorite genre or music are hiphop and rnb. I can eat chicken wings all day making it my go to  favorite food.
   </p>
 
   <p style={{ textAlign: 'justify' }}>
