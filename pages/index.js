@@ -13,11 +13,11 @@ export default function Home() {
     Yo, I’m Joefer Miguel Tulabut. I’m all about good vibes, new experiences,
     and chasing bigger goals. I love travelling, gaming, and hitting up random
     stores—whether I’m exploring a new place, grinding through a game, or
-    hunting for a rare thrift find, I’m always looking for something different.
+    hunting for a rare thrift find, I’m always looking for something different. My favorite genre or music are hiphop and rnb. I can eat chicken wings all day making it my go to food
   </p>
 
   <p style={{ textAlign: 'justify' }}>
-    But I’m not just here to have fun. I’ve got a goal. I’m ready to learn,
+    But I’m not just here to have fun. I’ve got a goal. To be a great Data Analyst. I’m ready to learn,
     work hard, and level up my skills. At the end of the day, my biggest
     motivation is my parents. I’m starting from where I am, but I’m aiming
     way higher.
